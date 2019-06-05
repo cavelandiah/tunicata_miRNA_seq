@@ -10,7 +10,7 @@ following Table:
 | Specie   |   Reference(s)   | Method  | Project(s) Accession Number | Samples |
 |----------|:----------------:|--------------------:|--------------------:|--------:|
 | _Oikopleura dioica_ | [Fu _et al._; 2008](https://academic.oup.com/mbe/article/25/6/1067/1131173) | Cloned miRNAs|NA| NA|
-| _Ciona intestinalis_[^1] | [Shi _et al_., 2009](https://www.nature.com/articles/nsmb.1536) | Illumina sequencing |  [GSE13625](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13625)| GSM343282, GSM343283, GSM343284 , GSM343285, GSM343286, GSM343287 (Drosophila Toll 10b mutant embryos) |
+| _Ciona intestinalis_ [^1] | [Shi _et al_., 2009](https://www.nature.com/articles/nsmb.1536) | Illumina sequencing |  [GSE13625](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13625)| GSM343282, GSM343283, GSM343284 , GSM343285, GSM343286, GSM343287 (Drosophila Toll 10b mutant embryos) |
 | _Halocynthia roretzi_ | [Wang _et al_., 2017 ](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3707-5) | Computational Pred, Mapping _Ciona robusta_ RNA-Seqs (SRR038843, SRR038844, 26 nt) | NA | [GSE21078](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM526915) (small RNA sequencing of two developmental stages of _C. intestinalis_. Public on Mar 27, 2010)|
 |_C. robusta_| [Spina _et al_.,2017](http://dev.biologists.org/content/144/10/1787.long) | Ion Torrent Seq | [GSE84837](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84837) | GSE84836 |
 | _Ciona savignyi_ | [Zhang _et al_.,2018](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4566-4)| Illumina Hiseq | NA | NA | 
@@ -33,7 +33,7 @@ In this context, we should select a number of species _x_ to extract RNA and bui
 #### RNA extraction
 Based on requested quotes and collected information, the initial set-up for extract RNA for each genome is:
 
-|Requirement(s)|Recommended[^2]|MN kit|Suggested FD|
+|Requirement(s)|Recommended [^2] |MN kit|Suggested FD|
 |-------------:|----------:|-----:|-----------:|
 | Collection time | ? | ? | ? |
 | Minimum quantity of RNA | 260 ng (160 ng (Seq + QC))| ? | ? |
@@ -45,7 +45,7 @@ In general required reactives to extaction are described in the following Table 
   <img width="560" height="300" src="https://github.com/cavelandiah/tunicata_miRNA_seq/blob/master/Figures/lysysprices.png?raw=true">
 </p>
 
-[^2]: Data from [Exiqon](http://www.exiqon.com/small-rna-ngs)
+[^2]: Data from [Exiqon](http://www.exiqon.com/small-rna-ngs).
 
 #### Library preparation and Sequencing
 
