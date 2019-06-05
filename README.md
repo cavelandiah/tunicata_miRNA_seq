@@ -16,7 +16,7 @@ following Table:
 | _Ciona savignyi_ | [Zhang _et al_.,2018](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4566-4)| Illumina Hiseq | NA | NA | 
 | _Salpa thompsoni_ | [Jue _et al_.,2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5174732/pdf/evw215.pdf) | Illumina HiSeq 2000| [SRP073811](https://www.ncbi.nlm.nih.gov/Traces/study/?uids=2470099%2C2470098%2C2470097) | SRR3438441, SRR3438440, SRR3438439 |   
 
-[^1]Reported in 2009 as Ciona intestinalis.
+[^1]: Reported in 2009 as Ciona intestinalis.
 
 At the same time, current phylogenetic distribution of 16 sequenced tunicates genomes is described as follows:
 <p align="center">
@@ -29,6 +29,7 @@ In this context, we should select a number of species _x_ to extract RNA and bui
 
 ### Experimental design
 
+
 #### RNA extraction
 Based on requested quotes and collected information, the initial set-up for extract RNA for each genome is:
 
@@ -38,30 +39,19 @@ Based on requested quotes and collected information, the initial set-up for extr
 | Minimum quantity of RNA | 260 ng (160 ng (Seq + QC))| NA | NA |
 | Expected time | After QC, 6 weeks | NA | NA |
 
-In general required reactives to extaction are described in the following Table[^2]:
+In general required reactives to extaction are described in the following Table [^2]:
 <p align="center">
   <img width="560" height="300" src="https://github.com/cavelandiah/tunicata_miRNA_seq/blob/master/Figures/lysysprices.png?raw=true">
 </p>
 
-[^2] Data from [Exiqon](http://www.exiqon.com/small-rna-ngs)
+[^2]: Data from [Exiqon](http://www.exiqon.com/small-rna-ngs)
 
 #### Library preparation and Sequencing
 
-|Requirement(s)|Recommended[^2]|MN kit|Suggested FD|
-|-------------:|----------:|-----:|-----------:|
-| Expected output | 15-30 nt reads (miRNA-Lib) or 30-200 nt (smallRNA libs)| NA | NA |
-| Library construction | 1 x 50 bp, Single End, 7.5 M reads | NA | NA |
-| Expected time | After QC, 6 weeks | NA | NA |
-
-
-Most of the options are Illumina based. Illumina offer the MiniSeq Small RNA-Seq Workflow (takes about $$\sim 1.3$$ days), that includes Library construction, sequencing and analysis of data. For Library construction, they offer the TrueSeq Small RNA Library Prep Kit (G), which have up to $48$ individual indexes. The idea is to multiplex all the possible sequences using those indexes and pool the read from different biiological experiments in the same lane. After that they offer a MiniSeq High/Mid Output Kit (H).  
-
-In this case they offer the machine and obviosly it is completely expensive for
-our objectives, for that reason I have to look for a NGS services. There is lot
-of options based on user request, but for our idea, I considered the following
-hypothetical set-up to request the quotes:
-	*Number of species = 3;
-	*Replicates (Biological/technical) = 2/2;
-	*Total number of samples for specie = $4$.
-	*Insert size = $18-25$ bp.
-	*Libraries: Single End ($1 \times 50$ bp) OR ($1 \times 75$ bp).
+In particular, there is a hypothetical set-up of the experiment that have to be defined before:
+	*Number of species: _x_
+	*Replicates: **0**
+	*Number of samples by specie: **4**
+	*Libraries: Single End: 1x50 or 1 x 75 bp.
+	*Sequencing: NextSeq 500, HiSeq 4000
+The idea is to multiplex all the possible sequences using indexes and pool the reads from different species at the same lane. 
