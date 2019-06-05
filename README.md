@@ -49,9 +49,19 @@ In general required reactives to extaction are described in the following Table 
 #### Library preparation and Sequencing
 
 In particular, there is a hypothetical set-up of the experiment that have to be defined before:
+	
 	*Number of species: _x_
 	*Replicates: **0**
 	*Number of samples by specie: **4**
 	*Libraries: Single End: 1x50 or 1 x 75 bp.
 	*Sequencing: NextSeq 500, HiSeq 4000
+
 The idea is to multiplex all the possible sequences using indexes and pool the reads from different species at the same lane. 
+
+
+An overview of the required quotes calculated for 1 specie with 2 biological replicas and 2 technical replicas is described as follows:
+
+<p align="center">
+  <img width="300" height="560" src="https://github.com/cavelandiah/tunicata_miRNA_seq/blob/master/Figures/quoteSeqsmiRNAs.png?raw=true">
+</p>
+
