@@ -51,9 +51,9 @@ In general required reactives to extaction are described in the following Table 
 
 In particular, there is a hypothetical set-up of the experiment that have to be defined before:
 	
-	*Number of species: _x_
-	*Replicates: **0**
-	*Number of samples by specie: **4**
+	*Number of species: x
+	*Replicates: 0
+	*Number of samples by specie: 4
 	*Libraries: Single End: 1x50 or 1 x 75 bp.
 	*Sequencing: NextSeq 500, HiSeq 4000
 
