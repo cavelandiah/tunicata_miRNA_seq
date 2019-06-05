@@ -66,3 +66,10 @@ An overview of the required quotes calculated for 1 specie with 2 biological rep
   <img width="510" height="660" src="https://github.com/cavelandiah/tunicata_miRNA_seq/blob/master/Figures/quoteSeqsmiRNAs.png?raw=true">
 </p>
 
+#### TODO:
+	[ ] Consider budged and time for field stage.
+	[ ] Decide species and contact collaborators to collect RNA/DNA material.
+	[ ] Decide where perform the RNA extraction, maybe local?
+	[ ] Consider the possible alternatives in case of contamination or degradation.
+	[ ] Time window <-> thesis project or more?
+	[ ] Based on the new feedback, order new quotes to update real prices.
