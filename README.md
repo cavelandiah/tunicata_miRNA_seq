@@ -35,9 +35,10 @@ Based on requested quotes and collected information, the initial set-up for extr
 
 |Requirement(s)|Recommended[^2]|MN kit|Suggested FD|
 |-------------:|----------:|-----:|-----------:|
-| Collection time | ? | NA | NA |
-| Minimum quantity of RNA | 260 ng (160 ng (Seq + QC))| NA | NA |
-| Expected time | After QC, 6 weeks | NA | NA |
+| Collection time | ? | ? | ? |
+| Minimum quantity of RNA | 260 ng (160 ng (Seq + QC))| ? | ? |
+| Expected time | After QC, 6 weeks | ? | ? |
+| Desired output | 20M | ? | ? |
 
 In general required reactives to extaction are described in the following Table [^2]:
 <p align="center">
@@ -62,6 +63,6 @@ The idea is to multiplex all the possible sequences using indexes and pool the r
 An overview of the required quotes calculated for 1 specie with 2 biological replicas and 2 technical replicas is described as follows:
 
 <p align="center">
-  <img width="300" height="560" src="https://github.com/cavelandiah/tunicata_miRNA_seq/blob/master/Figures/quoteSeqsmiRNAs.png?raw=true">
+  <img width="510" height="660" src="https://github.com/cavelandiah/tunicata_miRNA_seq/blob/master/Figures/quoteSeqsmiRNAs.png?raw=true">
 </p>
 
