@@ -4,7 +4,7 @@
 The current state of _miRNAs-seq_ proyects along tunicates is described in the
 following Table:
 
-| Specie   |   Reference(s)   | Current Repository  | Available Resources | Samples |
+| Specie   |   Reference(s)   | Method  | Project(s) Accession Number | Samples |
 |----------|:----------------:|--------------------:|--------------------:|--------:|
 | _Oikopleura dioica_ | [Fu _et al._; 2008](https://academic.oup.com/mbe/article/25/6/1067/1131173) | Cloned miRNAs|NA| NA|
 | _Ciona intestinalis_\* | [Shi _et al_., 2009](https://www.nature.com/articles/nsmb.1536) | Illumina sequencing |  [GSE13625](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE13625)| GSM343282, GSM343283, GSM343284 , GSM343285, GSM343286, GSM343287 (Drosophila Toll 10b mutant embryos) |
