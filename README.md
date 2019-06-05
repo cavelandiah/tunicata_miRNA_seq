@@ -60,10 +60,10 @@ In particular, there is a hypothetical set-up of the experiment that have to be 
 The idea is to multiplex all the possible sequences using indexes and pool the reads from different species at the same lane. 
 
 
-An overview of the required quotes calculated for 1 specie with 2 biological replicas and 2 technical replicas is described as follows:
+An overview of the required quotes calculated for 1 specie with 2 biological replicas and 2 technical replicas is described as follows **all prices are in $US**:
 
 <p align="center">
-  <img width="510" height="660" src="https://github.com/cavelandiah/tunicata_miRNA_seq/blob/master/Figures/quoteSeqsmiRNAs.png?raw=true">
+  <img width="510" height="660" src="https://github.com/cavelandiah/tunicata_miRNA_seq/blob/master/Figures/quotes.png?raw=true">
 </p>
 
 #### TODO:
