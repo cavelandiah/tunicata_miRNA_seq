@@ -33,7 +33,7 @@ In this context, we should select a number of species _x_ to extract RNA and bui
 #### RNA extraction
 Based on requested quotes and collected information, the initial set-up for extract RNA for each genome is:
 
-|Requirement(s)|Recommended <sup>[1](#2)</sup> |MN kit|Suggested FD|
+|Requirement(s)|Recommended <sup>[2](#2)</sup> |MN kit|Suggested FD|
 |-------------:|----------:|-----:|-----------:|
 | Collection time | ? | ? | ? |
 | Minimum quantity of RNA | 260 ng (160 ng (Seq + QC))| ? | ? |
@@ -45,7 +45,7 @@ In general required reactives to extaction are described in the following Table 
   <img width="560" height="300" src="https://github.com/cavelandiah/tunicata_miRNA_seq/blob/master/Figures/lysysprices.png?raw=true">
 </p>
 
-[^2]:<a name="2">1</a>: Data from [Exiqon](http://www.exiqon.com/small-rna-ngs).
+<a name="2">2</a>: Data from [Exiqon](http://www.exiqon.com/small-rna-ngs).
 
 #### Library preparation and Sequencing
 
