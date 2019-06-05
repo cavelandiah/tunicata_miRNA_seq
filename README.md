@@ -14,7 +14,5 @@ following Table:
 | _Salpa thompsoni_ | [Jue _et al_.,2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5174732/pdf/evw215.pdf) | Illumina HiSeq 2000| [SRP073811](https://www.ncbi.nlm.nih.gov/Traces/study/?uids=2470099%2C2470098%2C2470097) | SRR3438441, SRR3438440, SRR3438439 |   
 
 At the same time, current distribution of sequenced tunicates genomes is described as follows:
-![Phylogeny Tunicata][tree]
+![Phylogeny Tunicata][https://github.com/cavelandiah/tunicata_miRNA_seq/Figures/treeTunicata.png?raw=true "Phylo tunicates"]
 
-
-[tree](https://github.com/cavelandiah/tunicata_miRNA_seq/Figures/treeTunicata.pdf)
