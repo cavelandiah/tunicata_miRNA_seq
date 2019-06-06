@@ -67,9 +67,9 @@ An overview of the required quotes calculated for 1 specie with 2 biological rep
 </p>
 
 #### TODO:
-	[ ] Consider budged and time for field stage.
-	[ ] Decide species and contact collaborators to collect RNA/DNA material.
-	[ ] Decide where perform the RNA extraction, maybe local?
-	[ ] Consider the possible alternatives in case of contamination or degradation.
-	[ ] Time window <-> thesis project or more?
-	[ ] Based on the new feedback, order new quotes to update real prices.
+	[x] Consider budged and time for field stage.
+	[x] Decide species and contact collaborators to collect RNA/DNA material.
+	[x] Decide where perform the RNA extraction, maybe local?
+	[x] Consider the possible alternatives in case of contamination or degradation.
+	[x] Time window <-> thesis project or more?
+	[x] Based on the new feedback, order new quotes to update real prices.
